@@ -1,6 +1,6 @@
 # practice-clojue-rest-api
 
-A Simple practice to build the REST api with clojure.
+A Simple practice to build the REST api with Clojure.
 
 ## Libraries
 
